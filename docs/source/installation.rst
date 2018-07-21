@@ -91,7 +91,7 @@ Installation
 
 6. When you want to send a push notification, you create a notification
 
-    .. code-block: python
+    .. code-block:: python
 
         from django_exponent.models import PushNotification
 
