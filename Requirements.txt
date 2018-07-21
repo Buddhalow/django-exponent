@@ -1,0 +1,4 @@
+Django>=1.8.0
+django-common-helpers>=0.6.4
+exponent-server-sdk-python==0.2.0
+django-oauth-toolkit==1.0.0
