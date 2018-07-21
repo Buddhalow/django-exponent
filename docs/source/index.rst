@@ -10,6 +10,10 @@ Welcome to django-exponent's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   Introduction <introduction>
+   Installation <installation>
+   Locking backend <locking_backend>
+   Changelog <changelog>
 
 
 Indices and tables
